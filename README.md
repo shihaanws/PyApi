@@ -4,7 +4,7 @@ Simple Python API implemented by Django's REST framework.
 
 
 # API Model
-![Screenshot(659)](Screenshot(659).png)
+![alt text](https://github.com/theneoterik/PyApi/blob/master/Screenshot%20(659).png)
 A Database of TV Cartoons and their showdays!  
 
 # Steps to create a REST API
